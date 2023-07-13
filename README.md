@@ -51,4 +51,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Redes [Follow me](https://bit.ly/follow-flako)
-- GitHub [@your-username](https://github.com/FlakoBB)
+- GitHub [FlakoBB](https://github.com/FlakoBB)
